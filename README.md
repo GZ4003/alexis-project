@@ -1,1 +1,3 @@
 # alexis-project
+# React
+# Tailwindcss
